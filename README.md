@@ -3,9 +3,9 @@ esp32-homekit-camera
 
 
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/esp32-homekit-camera/total?color=green)](https://github.com/achimpieters/esp32-homekit-camera/releases) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/esp32-homekit-camera)
+![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/esp32-homekit-camera/total)
 [![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
-[![GitHub license](https://img.shields.io/github/v/release/achimpieters/esp32-homekit-camera)](https://img.shields.io/github/v/release/achimpieters/esp32-homekit-camera)
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
 
 
